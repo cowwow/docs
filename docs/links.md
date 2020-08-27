@@ -33,6 +33,7 @@ sidebar: auto
 | 仅安 | [微语](https://jinan6.vip/shuoshuo/)| Hexo | [Butterfly](https://github.com/jerryc127/hexo-theme-butterfly)  |
 | 辣个人の小窝 | [心情](https://www.xyp9x.com/journals/)| Hexo | [Volantis](https://github.com/xaoxuu/hexo-theme-volantis)  |
 | WuGenQiang | [微语](https://wugenqiang.github.io/PaperSummary/shuoshuo/)| Hexo | [Butterfly](https://github.com/jerryc127/hexo-theme-butterfly) |
+| CowWow| [碎碎念](https://cowwow.cn/artitalk/) | Hexo | [Butterfly](https://github.com/jerryc127/hexo-theme-butterfly)   |
 
 ## 如何加入成功案例
 
